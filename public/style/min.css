@@ -1,0 +1,4 @@
+h1 {
+background: url("/images/red_needle.jpg") left / auto 100% no-repeat, 
+url("/images/blue_needle.jpg") right / auto 100% no-repeat;
+}
